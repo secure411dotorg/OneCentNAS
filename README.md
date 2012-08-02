@@ -12,7 +12,7 @@ Design goals:
  - Low power
  - RAID1 (Redundant)
  - Scalable without cost penalty
- - Incremental technology upgrades without cost penalty
+ - Incremental technology upgrades with minimal cost penalty
  - Redundant hardware
  - Inexpensive to repair
  - Drive cooling
